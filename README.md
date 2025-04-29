@@ -1,5 +1,4 @@
 # IntrusionAI
-IntrusionAI is an AI-driven Network Intrusion Detection System (NIDS) that leverages machine learning to identify potential security threats. Using an XGBoost model, IntrusionAI analyzes network traffic data to detect anomalies and potential intrusions in real-time.
 IntrusionAI: AI-Driven Network Intrusion Detection System
 Overview
 IntrusionAI is an AI-driven Network Intrusion Detection System (NIDS) that leverages machine learning to identify potential security threats. By employing an XGBoost model, IntrusionAI analyzes network traffic data to detect anomalies and potential intrusions in real-time. This project aims to provide an intelligent and automated approach to network security monitoring.
